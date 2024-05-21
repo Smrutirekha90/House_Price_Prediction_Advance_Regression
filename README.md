@@ -30,7 +30,7 @@ The company wants to know:
 
 #### N.B. - 
 You will find the complete analysis on the dataset in file:
-> house_price_prediction.ipynb.
+> House_Price_Prediction_Advance_Regression - Main - LabelEncoding.ipynb.
 
 ### Assignment Part II
 
